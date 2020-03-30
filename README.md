@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Topic covered:
+(jsx , rendering list, conditional rendering, handeling events, updating the state,pass data,raise and handle event,multiple component in sync, functional component(stateless functional component) ,destructing argument, life cycle hooks(mount, update, unmount))
+
 ## Available Scripts
 
 In the project directory, you can run:
